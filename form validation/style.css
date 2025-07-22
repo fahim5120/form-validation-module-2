@@ -1,0 +1,18 @@
+body{
+    background-color: lightgray;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.container{
+    max-width: 800px;
+    margin-top: 50px;
+}
+
+.form{
+    padding: 30px;
+    box-shadow: 0 0 15 rgba(0, 0green, 0blue, 1alpha);
+}
+
+
+
+
